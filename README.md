@@ -1,20 +1,10 @@
-## Timeline Builder
+REFERENCES
 
-Use Timeline.js to build a timeline! With thanks to the Knight Lab at [NorthWestern University](https://timeline.knightlab.com/).
+Bellis, M. (2020, January 29). The history of Google and how it was invented. ThoughtCo. https://www.thoughtco.com/who-invented-google-1991852
 
-While you can use a spreadsheet to build your timeline as per the docs, here's a sample of how to build your timeline using JSON.
+Foote, K. D. (2024, September 25). A brief history of machine learning. DATAVERSITY. https://www.dataversity.net/a-brief-history-of-machine-learning/
 
-Run this website locally:
+Marr, B. (2023, May 19). A short history of ChatGPT: How we got to where we are today. Forbes. https://www.forbes.com/sites/bernardmarr/2023/05/19/a-short-history-of-chatgpt-how-we-got-to-where-we-are-today/
 
-1. Make sure you have Node.js installed.
-2. Fork this repo and place it on your local machine in a folder.
-3. Using the command line, CD (change directory) to the folder: `cd myTimeline`.
-4. Use `http-server` to quickly start up a local server; from your code's folder run `npx http-server`. You should see a timeline of Whitney Houston's amazing and tragic life.
-
-Build your own JSON structures for a new timeline, [following the docs](https://timeline.knightlab.com/docs/json-format.html).
-
-View this example [timeline](https://digital-humanities-toolkit.github.io/timeline-builder/)
-
-![timeline sample](timeline-example.png)
-
+Neural Networks - history. (n.d.). https://cs.stanford.edu/people/eroberts/courses/soco/projects/neural-networks/History/history1.html
 
