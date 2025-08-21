@@ -1,4 +1,4 @@
-LABORATORY 1 in CSST !02
+LABORATORY 1 in CSST 102
 
 Lumalang, Earl Gerard V.
 3IS2
