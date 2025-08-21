@@ -1,3 +1,8 @@
+LABORATORY 1 in CSST !02
+
+Lumalang, Earl Gerard V.
+3IS2
+
 REFERENCES
 
 Bellis, M. (2020, January 29). The history of Google and how it was invented. ThoughtCo. https://www.thoughtco.com/who-invented-google-1991852
